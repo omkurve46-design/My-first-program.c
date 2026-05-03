@@ -13,7 +13,7 @@
 - 🔭 Currently working on: **Personal Projects**
 - 🌱 Currently learning: **Web Development & DSA**
 - 💡 Passionate about: **Problem Solving & Open Source**
-- 📫 Reach me at: **your@email.com**
+- 📫 Reach me at: **omkurve46@gmail.com**
 
 ### 📊 GitHub Stats
 
